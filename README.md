@@ -46,7 +46,7 @@ This project consists of the following components:
 - Data collection and preprocessing has been achieved through dynamic web scraping using Selenium.
 - All the masters course websites of the SRH Heidelberg website have been scraped.
 - The content is saved in a csv file in a structured format.
-- The text data is there converted to a single python string object to be fed into the LLM (inspired by ONTEC table extractor).
+- The text data is there converted to a single python string object to be fed into the LLM.
 - This string is saved in a text file.
 
 #### Model Selection and Training:
