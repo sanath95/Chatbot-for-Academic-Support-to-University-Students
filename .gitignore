@@ -1,0 +1,4 @@
+.env
+/outputs/
+/srh_index_store/
+/.gradio/
