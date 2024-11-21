@@ -2,3 +2,5 @@
 /outputs/
 /srh_index_store/
 /.gradio/
+/srh_index_store_faiss/
+/srh_index_store_index/
